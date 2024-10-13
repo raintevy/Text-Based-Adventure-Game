@@ -1,0 +1,4 @@
+torch | A
+potion | E
+map | D
+key | F

@@ -1,0 +1,3 @@
+Hangman | B
+Sliding Tile Puzzle | C
+Trick Questions | F
